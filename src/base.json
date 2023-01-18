@@ -24,6 +24,20 @@
             "DT":"unchanged",
             "D":"0%"
 
+        },
+        {
+            "title": "TITAN",
+            "DF":19,
+            "TR": 0,
+            "LT":384,
+            "CFR":28
+        },
+        {
+            "title": "MIMIR",
+            "DF":26,
+            "TR": 0,
+            "LT":528,
+            "CFR":21
         }
         
     ]

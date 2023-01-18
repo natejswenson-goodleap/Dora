@@ -9,11 +9,12 @@ class Base extends (Component){
     render() {
         return (
             <div>
+                <>{item.title}</Title>
                 { this.state.json.Metrics.map((item) => {
                
                     return (
                         <div>
-                            <Metric>{item.title}</Metric>
+                            <Title>{item.title}</Title>
                             <ColGrid numCols={1} numColsSm={2} numColsLg={4} gapX="gap-x-2" gapY="gap-y-2">
                                 
                                 <Card decoration="bottom" decorationColor={item.color}>
