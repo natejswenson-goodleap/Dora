@@ -14,4 +14,4 @@ jobs:
         uses: mikaelvesavuori/dorametrix-action@v1.0.0
         with:
           endpoint: "https://djn6bu56k2.execute-api.us-west-2.amazonaws.com"
-          api-key: "82490d5a-1950-4527-ab2f-5c984c861462"
+          api-key: '82490d5a-1950-4527-ab2f-5c984c861462'
